@@ -1,0 +1,54 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+h4 {
+  font-family: "Roboto";
+  color: skyblue;
+}
+
+h2 {
+  font-family: "Roboto";
+  font-size: 300%;
+  background-color: black;
+  width: 50%; 
+  color: #ffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-left: 25%;
+}
+
+button {
+  font-size: 170%; 
+  width: 13%;
+  display: flex;
+  justify-content: center;
+  border-color: black;
+  margin-left: 43%;
+}
+
+
+.nav-center {
+  width: 2000px;
+  background-color: #ffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.nav-link {
+  font-family: "Roboto";
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.container {
+   height: 90%;  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
